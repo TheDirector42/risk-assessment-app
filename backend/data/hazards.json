@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Slippery Floor",
+    "severity": "Medium",
+    "likelihood": "High",
+    "controlMeasures": "Place caution signs and ensure frequent mopping"
+  },
+  {
+    "id": 2,
+    "name": "Overcrowding",
+    "severity": "High",
+    "likelihood": "Medium",
+    "controlMeasures": "Limit the number of participants and ensure adequate spacing"
+  },
+  {
+    "id": 3,
+    "name": "Electrical Hazards",
+    "severity": "High",
+    "likelihood": "Low",
+    "controlMeasures": "Inspect all equipment and use circuit breakers"
+  }
+]

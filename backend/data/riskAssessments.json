@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1733998570330,
+    "name": "Chemistry Lab Session",
+    "description": "Handling basic chemical reactions.",
+    "leaders": [
+      "Jane Doe",
+      "John Roe"
+    ],
+    "ageGroups": [
+      "14-16"
+    ],
+    "numOfStudents": 20,
+    "startDate": "2024-12-20",
+    "endDate": "2024-12-21",
+    "overallRisk": "High",
+    "hazards": [
+      {
+        "name": "Chemical Spills",
+        "severity": "High",
+        "likelihood": "Medium",
+        "controlMeasures": "Provide spill kits and safety training"
+      }
+    ]
+  }
+]
